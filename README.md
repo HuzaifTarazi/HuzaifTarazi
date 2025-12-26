@@ -40,7 +40,7 @@ Aspiring MERN Stack Developer focused on learning and building a strong foundati
 ---
 
 ## 📫 Contact
-- **Email:** yourname@email.com
+- **Email:** huzaiftarazi14@gmail.com
 
 ---
 
