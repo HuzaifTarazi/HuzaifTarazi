@@ -1,24 +1,26 @@
-<h1 align="center">Search 'Zeeshan Ali' on Internet or Visit my <a href="http://zeeshan.p2pclouds.net/" target="_blank">Website</a></h1>
-<h1 align="center">Hi 👋, I'm Zeeshan Ali</h1>
+<h1 align="center">Search 'Zeeshan Ali' on Internet or Visit my <a href="https://www.linkedin.com/in/huzaiftarazi/" target="_blank">LinkedIn Profile</a></h1>
+<h1 align="center">Hi 👋, I'm Huzaif Tarazi</h1>
 <h3 align="center">
-  A Practical Technologist & Project Lead at <b>P2PClouds</b> with experience across 
-  <b>Pakistan, the USA, and the Middle East</b>.
+  A dedicated web development learner, building real-world projects while mastering JavaScript, MERN Stack, Tailwind CSS, and WordPress.
 </h3>
 
 <h4 align="center">
-  I specialize in <b>AI, Blockchain, Cloud Computing, Web,</b> and <b>Mobile App Development</b>.  
-  Skilled in <b>MERN Stack, Machine Learning, Deep Learning, Generative AI, NLP,</b> and <b>AI Agents</b>.
+  🌱 Currently learning and building in
+  <b>Web Development</b> with a strong focus on
+  <b>JavaScript, MERN Stack, Tailwind CSS, and WordPress</b>.
+  <br><br>
+  🚀 Gradually exploring
+  <b>Cloud Computing fundamentals</b> and
+  <b>Artificial Intelligence concepts</b> for future specialization.
 </h4>
 
 <h4 align="center">
-  Instructor at <b>NexSkill</b> & <b>Ideoversity</b> — mentoring developers in <b>AI, Blockchain,</b> and <b>Cloud</b>.  
-  Passionate about <b>AI-driven Web Apps, Smart Contracts,</b> and <b>DApps</b>.
-</h4>
-
-<h4 align="center">
-  💡 Open to <b>collaboration, partnerships,</b> and <b>research opportunities</b> in 
-  <b>AI, Blockchain,</b> and <b>Cloud</b>.  
-  📩 <a href="mailto:zeeshanali90233@gmail.com">zeeshanali90233@gmail.com</a>
+  💡 Open to <b>learning collaborations</b>, <b>practice projects</b>, and
+  <b>developer communities</b> in <b>Web Development</b> and
+  <b>Full-Stack Website Developer (MERN)</b>.
+  <br><br>
+  📩 Feel free to reach out:
+  <a href="mailto:huzaiftarazi14@gmail.com">huzaiftarazi14@gmail.com</a>
 </h4>
 <!-- Add Views badge -->
 <p align="center">
