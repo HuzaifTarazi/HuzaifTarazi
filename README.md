@@ -24,10 +24,7 @@
 </h4>
 <!-- Add Views badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeeshanali90233" alt="Views">
-
-
-
+  <img src="https://komarev.com/ghpvc/?username=huzaiftarazi" alt="Views">
 </p>
 
   <img src="./gitartwork.svg" alt="Views">
@@ -41,7 +38,9 @@
 
 ###
 
-<p align="left"> 🔭 I’m working as Technical Project Manager @ P2PClouds and Web Instructor @ NexSkill PVT LTD...<br>- 📚 I have my expertise in Web/Mobile App, AI , Ai Agents and Decentralized Applications<br>- ⚡ In my free time I write blogs</p>
+<p align="left"> 🔭 I’m working as Technical Project Manager @ P2PClouds and Web Instructor @ NexSkill PVT LTD...<br>- 
+  📚 I have my expertise in Web/Mobile App, AI , Ai Agents and Decentralized Applications<br>- ⚡ In my free time I write blogs
+</p>
 
 ###
 
