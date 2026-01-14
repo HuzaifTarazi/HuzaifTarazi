@@ -1,5 +1,5 @@
 <svg width="823" height="148" class="js-calendar-graph-svg" xmlns="http://www.w3.org/2000/svg"><style>
-    :root {
+    <!-- :root {
         --c0: rgba(27, 31, 35, 0.06);
         --c1: #9be9a8;
         --c2: #40c463;
@@ -1273,7 +1273,54 @@ transform: rotate(0deg)
             }
 .c.c88 {
                 animation-name: c88
-            }</style>
+            } -->
+:root {
+    --c0: rgba(27, 31, 35, 0.06);
+    --c1: #9be9a8;
+    --c2: #40c463;
+    --c3: #30a14e;
+    --c4: #216e39;
+}
+
+/* Keep your original structure */
+.o, .o[data-level="0"] {
+    fill: var(--c0);
+    shape-rendering: geometricPrecision;
+    outline: 1px solid var(--c0);
+    outline-offset: -1px
+}
+
+.o[data-level="1"], .o[data-level="2"], .o[data-level="3"], .o[data-level="4"] {
+    outline: 1px solid var(--c0)
+}
+
+/* UPDATED: smoother, HUZAIF-friendly animation */
+.c {
+    animation-iteration-count: infinite;
+    animation-duration: 1.5s; /* faster */
+    animation-timing-function: ease-in-out; /* smooth rotation */
+}
+
+/* Rotation and color for each letter tailored to HUZAIF */
+@keyframes rotateC0 { from { transform: rotate(-20deg); } 50% { transform: rotate(0deg); } to { transform: rotate(20deg); fill: var(--c1); } }
+.c.c0 { animation-name: rotateC0; }
+
+@keyframes rotateC1 { from { transform: rotate(-15deg); } 50% { transform: rotate(0deg); } to { transform: rotate(15deg); fill: var(--c2); } }
+.c.c1 { animation-name: rotateC1; }
+
+@keyframes rotateC2 { from { transform: rotate(-10deg); } 50% { transform: rotate(0deg); } to { transform: rotate(10deg); fill: var(--c3); } }
+.c.c2 { animation-name: rotateC2; }
+
+@keyframes rotateC3 { from { transform: rotate(-12deg); } 50% { transform: rotate(0deg); } to { transform: rotate(12deg); fill: var(--c4); } }
+.c.c3 { animation-name: rotateC3; }
+
+@keyframes rotateC4 { from { transform: rotate(-18deg); } 50% { transform: rotate(0deg); } to { transform: rotate(18deg); fill: var(--c2); } }
+.c.c4 { animation-name: rotateC4; }
+
+@keyframes rotateC5 { from { transform: rotate(-14deg); } 50% { transform: rotate(0deg); } to { transform: rotate(14deg); fill: var(--c1); } }
+.c.c5 { animation-name: rotateC5; }
+
+</style>
 <g transform="translate(15, 20)">
 <g transform="translate(0, 0)">
 <rect width="11" height="11" x="16" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
