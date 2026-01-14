@@ -45,7 +45,7 @@
 ###
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HuzaifTarazi)](https://github.com/HuzaifTarazi/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanali90233&theme=alduin" alt="zeeshanali90233"></img> </p>
 
 <p align="left"> <a href="https://twitter.com/zeeshanali90233" target="blank"><img src="https://img.shields.io/twitter/follow/zeeshanali90233?logo=twitter&style=for-the-badge" alt="zeeshanali90233" /></a> </p>
