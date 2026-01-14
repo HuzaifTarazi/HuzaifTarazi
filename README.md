@@ -1,4 +1,4 @@
-<h1 align="center">Search 'Zeeshan Ali' on Internet or Visit my <a href="https://www.linkedin.com/in/huzaiftarazi/" target="_blank">LinkedIn Profile</a></h1>
+<h2 align="center">Visit My <a href="https://www.linkedin.com/in/huzaiftarazi/" target="_blank">LinkedIn Profile</a></h2>
 <h1 align="center">Hi 👋, I'm Huzaif Tarazi</h1>
 <h3 align="center">
   A dedicated web development learner, building real-world projects while mastering JavaScript, MERN Stack, Tailwind CSS, and WordPress.
