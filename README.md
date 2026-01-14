@@ -1,176 +1,138 @@
-<h1 align="center">Visit My <a href="https://www.linkedin.com/in/huzaiftarazi/" target="_blank">LinkedIn Profile</a></h1>
-<h2 align="center">Hi 👋, I'm Huzaif Tarazi</h2>
+<!-- ===================== HEADER ===================== -->
+
+<h1 align="center">
+  Visit My <a href="https://www.linkedin.com/in/huzaiftarazi/" target="_blank">LinkedIn Profile</a>
+</h1>
+
+<h2 align="center">Hi, I'm Huzaif Tarazi</h2>
+
 <h3 align="center">
-  A dedicated web development learner, building real-world projects while mastering JavaScript, MERN Stack, Tailwind CSS, and WordPress.
+  A dedicated Web Development learner building real-world projects while mastering
+  <br />
+  <b>JavaScript, MERN Stack, Tailwind CSS, and WordPress</b>
 </h3>
 
+<br />
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
 <h4 align="center">
-  🌱 Currently learning and building in
-  <b>Web Development</b> with a strong focus on
-  <b>JavaScript, MERN Stack, Tailwind CSS, and WordPress</b>.
-  <br><br>
-  🚀 Gradually exploring
-  <b>Cloud Computing fundamentals</b> and
-  <b>Artificial Intelligence concepts</b> for future specialization.
+  🌱 Currently learning and building in <b>Web Development</b>
+  <br />
+  with a strong focus on <b>JavaScript, MERN Stack, Tailwind CSS, and WordPress</b>
+</h4>
+
+<h4 align="center">
+  🚀 Gradually exploring <b>Cloud Computing fundamentals</b> and
+  <b>Artificial Intelligence concepts</b> for future specialization
 </h4>
 
 <h4 align="center">
   💡 Open to <b>learning collaborations</b>, <b>practice projects</b>, and
-  <b>developer communities</b> in <b>Web Development</b> and
-  <b>Full-Stack Website Developer (MERN)</b>.
-  <br><br>
-  📩 Feel free to reach out:
+  <b>developer communities</b>
+  <br /><br />
+  📩 Contact:
   <a href="mailto:huzaiftarazi14@gmail.com">huzaiftarazi14@gmail.com</a>
 </h4>
+
+<br />
+
+<!-- ===================== PROFILE VIEWS ===================== -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HuzaifTarazi" alt="Views">
+  <img src="https://komarev.com/ghpvc/?username=HuzaifTarazi&style=for-the-badge" alt="Profile Views" />
 </p>
-<!-- Add Views badge -->
+
 <p align="center">
-  <img src="./gitartwork.svg" alt="Views">
+  <img src="./gitartwork.svg" alt="GitHub Artwork" />
 </p>
 
- <img src="https://img.shields.io/badge/Joined-2022-blue?style=for-the-badge&logo=github" alt="Views">
-<br>
-
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left"> 🔭 I’m currently learning and building projects in <b>Web Development (MERN Stack, Tailwind CSS, WordPress)</b>.<br>
-- 📚 Exploring <b>Full-Stack JavaScript, Cloud Computing,</b> and <b>AI fundamentals</b> through hands-on projects.<br>
-- ⚡ In my free time, I write blogs, practice coding mini-projects, and expand my skills with structured learning roadmaps.
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-2022-blue?style=for-the-badge&logo=github" alt="Joined GitHub 2022" />
 </p>
 
-###
+<hr />
 
-<p align="left"> <a href="https://www.instagram.com/its_huzaiftarazi" target="blank">
-  <img src="https://img.shields.io/twitter/follow/its_huzaiftarazi?logo=twitter&style=for-the-badge" alt="HuzaifTarazi" /></a> 
-</p>
+<!-- ===================== ABOUT ME ===================== -->
 
-- 📫 How to reach me **huzaiftarazi14@gmail.com**
+<h3 align="left">About Me</h3>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/@its_huzaiftarazi" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Huzaif-Medium" height="30" width="40" />
-</a>
-<a href="https://codepen.io/Huzaif-Tarazi" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Huzaif-Codepen" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/huzaiftarazi/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Huzaif-linkedin" height="30" width="40" /></a>
-<a href="https://facebook.com/huzaiftarazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook-huzaif" height="30" width="40" /></a>
-<a href="https://instagram.com/its_huzaiftarazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-huzaif" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@huzaiftarazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube-huzaif" height="30" width="40" /></a>
+  🔭 Currently learning and building projects in
+  <b>Web Development (MERN Stack, Tailwind CSS, WordPress)</b>.
+  <br /><br />
+  📚 Exploring <b>Full-Stack JavaScript</b>, <b>Cloud Computing</b>, and
+  <b>AI fundamentals</b> through hands-on projects.
+  <br /><br />
+  ⚡ In my free time, I write blogs, practice coding mini-projects, and follow
+  structured learning roadmaps to strengthen fundamentals.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<hr />
+
+<!-- ===================== SOCIAL LINKS ===================== -->
+
+<h3 align="left">Connect with Me</h3>
+
+<p align="left">
+  <a href="https://medium.com/@its_huzaiftarazi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" />
+  </a>
+  <a href="https://codepen.io/Huzaif-Tarazi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/huzaiftarazi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+  </a>
+  <a href="https://facebook.com/huzaiftarazi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
+  </a>
+  <a href="https://instagram.com/its_huzaiftarazi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@huzaiftarazi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" />
+  </a>
+</p>
+
+<hr />
+
+<!-- ===================== LANGUAGES & TOOLS ===================== -->
+
+<h3 align="center">Languages & Tools</h3>
+
 <p align="center">
-
-  <!-- Programming Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <!-- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a> -->
-  <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a> -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a> -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-
-  <!-- Frontend Technologies -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <!-- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a> -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
-  </a>
-
-  <!-- Backend Technologies -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <!-- <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/graphql.png" alt="GraphQL" width="40" height="40"/>
-  </a> -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-
-  <!-- AI & Databases -->
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.oaistatic.com/assets/favicon-32x32-p4ktpm1x.webp" alt="OpenAI" width="40" height="40"/>
-  </a>
-  <!-- <a href="https://llama.ai/" target="_blank" rel="noreferrer">
-    <img src="https://static.xx.fbcdn.net/rsrc.php/y5/r/m4nf26cLQxS.ico" alt="Llama" width="40" height="40"/>
-  </a> -->
-
- 
-  <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-
-  <!-- Tools -->
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  <img src="https://cdn.oaistatic.com/assets/favicon-32x32-p4ktpm1x.webp" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
 </p>
 
+<hr />
 
-
-
-
-<br/>
-
+<!-- ===================== GITHUB STATS ===================== -->
 
 <div align="center">
-<p><img align="center" src="https://streak-stats.demolab.com/?user=HuzaifTarazi" alt="HuzaifTarazi" /></p>
+  <img src="https://streak-stats.demolab.com/?user=HuzaifTarazi" alt="GitHub Streak" />
 </div>
 
+<br />
+
+<!-- ===================== SUPPORT ===================== -->
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/zeeshanali90233" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+  <a href="https://www.buymeacoffee.com/zeeshanali90233" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" />
+  </a>
+</div>
