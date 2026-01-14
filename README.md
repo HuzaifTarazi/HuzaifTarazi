@@ -136,15 +136,9 @@
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.oaistatic.com/assets/favicon-32x32-p4ktpm1x.webp" alt="OpenAI" width="40" height="40"/>
   </a>
-  <a href="https://dialogflow.cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://static.dialogflow.com/common/dialogflow.png" alt="Dialogflow" width="40" height="40"/>
-  </a>
   <!-- <a href="https://llama.ai/" target="_blank" rel="noreferrer">
     <img src="https://static.xx.fbcdn.net/rsrc.php/y5/r/m4nf26cLQxS.ico" alt="Llama" width="40" height="40"/>
   </a> -->
-  <a href="https://gemini.cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.gstatic.com/lamda/images/claude-original.png" alt="Gemini" width="40" height="40"/>
-  </a>
 
  
   <!-- AWS -->
@@ -153,17 +147,7 @@
   </a>
 
   <!-- Tools -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"
-     alt="GitHub"
-     width="40"
-     height="40"
-     style="filter: brightness(0) invert(1);" />
-
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git/git.svg" alt="git" width="40" height="40"/>
-  </a>
+  
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
