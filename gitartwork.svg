@@ -24,10 +24,15 @@
     .o[data-level="4"] {
         outline: 1px solid var(--c0)
     }
-    .c {
+    <!-- .c {
         animation-iteration-count: infinite;
         animation-duration: 5s;
-    }
+    } -->
+    .c {
+    animation-iteration-count: infinite;
+    animation-duration: 2s; /* was 5s, now faster */
+    animation-timing-function: ease-in-out; /* smooth transitions */
+}
 @keyframes c0 {
                 from {
 transform: rotate(582deg)
