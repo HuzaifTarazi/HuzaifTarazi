@@ -37,8 +37,9 @@
 
 ###
 
-<p align="left"> 🔭 I’m working as Technical Project Manager @ P2PClouds and Web Instructor @ NexSkill PVT LTD...<br>- 
-  📚 I have my expertise in Web/Mobile App, AI , Ai Agents and Decentralized Applications<br>- ⚡ In my free time I write blogs
+<p align="left"> 🔭 I’m currently learning and building projects in <b>Web Development (MERN Stack, Tailwind CSS, WordPress)</b>.<br>
+- 📚 Exploring <b>Full-Stack JavaScript, Cloud Computing,</b> and <b>AI fundamentals</b> through hands-on projects.<br>
+- ⚡ In my free time, I write blogs, practice coding mini-projects, and expand my skills with structured learning roadmaps.
 </p>
 
 ###
