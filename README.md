@@ -154,7 +154,12 @@
 
   <!-- Tools -->
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img  style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"
+     alt="GitHub"
+     width="40"
+     height="40"
+     style="filter: brightness(0) invert(1);" />
+
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git/git.svg" alt="git" width="40" height="40"/>
