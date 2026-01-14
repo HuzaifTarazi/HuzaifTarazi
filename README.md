@@ -67,8 +67,8 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Huzaif-Codepen" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/huzaiftarazi/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Huzaif-linkedin" height="30" width="40" /></a>
-<a href="https://facebook.com/huzaiftarazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zeeshan ali" height="30" width="40" /></a>
-<a href="https://instagram.com/its_huzaiftarazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeeshan ali" height="30" width="40" /></a>
+<a href="https://facebook.com/huzaiftarazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook-huzaif" height="30" width="40" /></a>
+<a href="https://instagram.com/its_huzaiftarazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-huzaif" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -162,9 +162,8 @@
 
 
 <div align="center">
-  
 <p><img align="center" src="https://streak-stats.demolab.com/?user=HuzaifTarazi" alt="HuzaifTarazi" /></p>
-           </div>
+</div>
 
 
 <div align="center">
