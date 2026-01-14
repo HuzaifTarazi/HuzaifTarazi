@@ -23,9 +23,8 @@
   <a href="mailto:huzaiftarazi14@gmail.com">huzaiftarazi14@gmail.com</a>
 </h4>
 <!-- Add Views badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huzaiftarazi" alt="Views">
-</p>
+ <img src="./gitartwork.svg" alt="Views">
+ <img src="https://img.shields.io/badge/Joined-2020-blue?style=for-the-badge&logo=github" alt="Views">
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
