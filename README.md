@@ -45,7 +45,7 @@
 ###
 
 <p align="left"> <a href="https://www.instagram.com/its_huzaiftarazi" target="blank">
-  <img src="https://img.shields.io/instagram/follow/its_huzaiftarazi?logo=instagram&style=for-the-badge" alt="HuzaifTarazi" /></a> </p>
+  <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="HuzaifTarazi" /></a> </p>
 
 - 📫 How to reach me **huzaiftarazi14@gmail.com**
 
