@@ -26,11 +26,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=huzaiftarazi" alt="Views">
 </p>
-
- <p align="center">
-  <img src="https://raw.githubusercontent.com/jesineri/artwork/master/developer/developer.png" width="300"/>
-</p>
-
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
