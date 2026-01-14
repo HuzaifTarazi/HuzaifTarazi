@@ -22,6 +22,9 @@
   📩 Feel free to reach out:
   <a href="mailto:huzaiftarazi14@gmail.com">huzaiftarazi14@gmail.com</a>
 </h4>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HuzaifTarazi" alt="Views">
+</p>
 <!-- Add Views badge -->
  <img src="./gitartwork.svg" alt="Views">
  <img src="https://img.shields.io/badge/Joined-2022-blue?style=for-the-badge&logo=github" alt="Views">
