@@ -78,18 +78,18 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  </a> -->
+  <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   </a>
@@ -101,9 +101,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
   </a>
@@ -125,9 +125,9 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/graphql.png" alt="GraphQL" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
@@ -139,11 +139,11 @@
   <a href="https://dialogflow.cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://static.dialogflow.com/common/favicon.png" alt="Dialogflow" width="40" height="40"/>
   </a>
-  <a href="https://llama.ai/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://llama.ai/" target="_blank" rel="noreferrer">
     <img src="https://static.xx.fbcdn.net/rsrc.php/y5/r/m4nf26cLQxS.ico" alt="Llama" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://gemini.cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.gstatic.com/lamda/images/gemini_favicon_f069958c85030456e93de685481c559f160ea06b.png" alt="Gemini" width="40" height="40"/>
+    <img src="https://www.gstatic.com/lamda/images/gemini_favicon.png" alt="Gemini" width="40" height="40"/>
   </a>
 
  
@@ -160,7 +160,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/git.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
