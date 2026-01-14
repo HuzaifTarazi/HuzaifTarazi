@@ -43,16 +43,9 @@
 </p>
 
 ###
-<p align="left">
-  <a href="https://www.instagram.com/its_huzaiftarazi" target="_blank">
-    <img src="https://img.shields.io/instagram/follow/its_huzaiftarazi?logo=instagram&style=for-the-badge" 
-         alt="Follow HuzaifTarazi on Instagram" />
-  </a>
-</p>
-
 
 <p align="left"> <a href="https://www.instagram.com/its_huzaiftarazi" target="blank">
-  <img src="https://img.shields.io/instagram/follow/its_huzaiftarazi?logo=instagram&style=for-the-badge" alt="HuzaifTarazi" /></a> 
+  <img src="https://img.shields.io/twitter/follow/its_huzaiftarazi?logo=twitter&style=for-the-badge" alt="HuzaifTarazi" /></a> 
 </p>
 
 - 📫 How to reach me **huzaiftarazi14@gmail.com**
