@@ -44,11 +44,8 @@
 
 ###
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HuzaifTarazi&theme=onedark)](https://github.com/HuzaifTarazi/github-profile-trophy)
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=HuzaifTarazi&theme=alduin" alt="HuzaifTarazi"></img> </p>
-
-<p align="left"> <a href="https://twitter.com/zeeshanali90233" target="blank"><img src="https://img.shields.io/twitter/follow/zeeshanali90233?logo=twitter&style=for-the-badge" alt="zeeshanali90233" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/its_huzaiftarazi" target="blank">
+  <img src="https://img.shields.io/twitter/follow/its_huzaiftarazi?logo=twitter&style=for-the-badge" alt="HuzaifTarazi" /></a> </p>
 
 - 📫 How to reach me **zeeshanali90233@gmail.com**
 
