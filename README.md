@@ -27,8 +27,10 @@
   <img src="https://komarev.com/ghpvc/?username=huzaiftarazi" alt="Views">
 </p>
 
-  <img src="./gitartwork.svg" alt="Views">
-  <img src="https://img.shields.io/badge/Joined-2022-blue?style=for-the-badge&logo=github" alt="Views">
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/jesineri/artwork/master/developer/developer.png" width="300"/>
+</p>
+
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
