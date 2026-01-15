@@ -124,7 +124,7 @@
 <!-- ===================== GITHUB STATS ===================== -->
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HuzaifTarazi" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=HuzaifTarazi" alt="GitHub-Streak" />
 </div>
 
 <br />
