@@ -1,138 +1,132 @@
-<!-- ===================== HEADER ===================== -->
-
-<h1 align="center">
-  Visit My <a href="https://www.linkedin.com/in/huzaiftarazi/" target="_blank">LinkedIn Profile</a>
-</h1>
-
-<h2 align="center">Hi, I'm Huzaif Tarazi</h2>
-
-<h3 align="center">
-  A dedicated Web Development learner building real-world projects while mastering
-  <br />
-  <b>JavaScript, MERN Stack, Tailwind CSS, and WordPress</b>
-</h3>
-
-<br />
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-<h4 align="center">
-  🌱 Currently learning and building in <b>Web Development</b>
-  <br />
-  with a strong focus on <b>JavaScript, MERN Stack, Tailwind CSS, and WordPress</b>
-</h4>
-
-<h4 align="center">
-  🚀 Gradually exploring <b>Cloud Computing fundamentals</b> and
-  <b>Artificial Intelligence concepts</b> for future specialization
-</h4>
-
-<h4 align="center">
-  💡 Open to <b>learning collaborations</b>, <b>practice projects</b>, and
-  <b>developer communities</b>
-  <br /><br />
-  📩 Contact:
-  <a href="mailto:huzaiftarazi14@gmail.com">huzaiftarazi14@gmail.com</a>
-</h4>
-
-<br />
-
-<!-- ===================== PROFILE VIEWS ===================== -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HuzaifTarazi&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="./gitartwork.svg" alt="GitHub Artwork" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Joined-2022-blue?style=for-the-badge&logo=github" alt="Joined GitHub 2022" />
-</p>
-
-<hr />
-
-<!-- ===================== ABOUT ME ===================== -->
-
-<h3 align="left">About Me</h3>
-
-<p align="left">
-  🔭 Currently learning and building projects in
-  <b>Web Development (MERN Stack, Tailwind CSS, WordPress)</b>.
-  <br /><br />
-  📚 Exploring <b>Full-Stack JavaScript</b>, <b>Cloud Computing</b>, and
-  <b>AI fundamentals</b> through hands-on projects.
-  <br /><br />
-  ⚡ In my free time, I write blogs, practice coding mini-projects, and follow
-  structured learning roadmaps to strengthen fundamentals.
-</p>
-
-<hr />
-
-<!-- ===================== SOCIAL LINKS ===================== -->
-
-<h3 align="left">Connect with Me</h3>
-
-<p align="left">
-  <a href="https://medium.com/@its_huzaiftarazi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" />
-  </a>
-  <a href="https://codepen.io/Huzaif-Tarazi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/huzaiftarazi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-  <a href="https://facebook.com/huzaiftarazi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
-  </a>
-  <a href="https://instagram.com/its_huzaiftarazi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@huzaiftarazi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" />
-  </a>
-</p>
-
-<hr />
-
-<!-- ===================== LANGUAGES & TOOLS ===================== -->
-
-<h3 align="center">Languages & Tools</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://cdn.oaistatic.com/assets/favicon-32x32-p4ktpm1x.webp" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
-</p>
-
-<hr />
-
-<!-- ===================== GITHUB STATS ===================== -->
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HuzaifTarazi" alt="GitHub-Streak" />
+
+```
+██╗  ██╗██╗   ██╗███████╗ █████╗ ██╗███████╗    ████████╗ █████╗ ██████╗  █████╗ ███████╗██╗
+██║  ██║██║   ██║╚══███╔╝██╔══██╗██║██╔════╝    ╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗╚══███╔╝██║
+███████║██║   ██║  ███╔╝ ███████║██║█████╗         ██║   ███████║██████╔╝███████║  ███╔╝ ██║
+██╔══██║██║   ██║ ███╔╝  ██╔══██║██║██╔══╝         ██║   ██╔══██║██╔══██╗██╔══██║ ███╔╝  ██║
+██║  ██║╚██████╔╝███████╗██║  ██║██║██║            ██║   ██║  ██║██║  ██║██║  ██║███████╗██║
+╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═╝            ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+FAST-NUCES+Fsd;AI+%7C+Computer+Vision+%7C+Full-Stack+Dev;Building+clean%2C+functional+software+%F0%9F%9F%A2;she%2Fher+%C2%B7+Open+to+collabs+%E2%9C%A8)](https://git.io/typing-svg)
+
 </div>
 
-<br />
+---
 
-<!-- ===================== SUPPORT ===================== -->
+```bash
+visitor@github:~$ cat ./about_me.txt
+
+  Focus   : Full-Stack Web Dev · Gen Ai · Ai Automation
+  Status  : ▰▰▰▰▰▰▰▰▰▱  Learning every day
+  Collab  : OPEN — reach out anytime ✅
+```
+
+---
+
+## `> tech.stack`
+
+**Languages**
+
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Redux](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![Railway](https://skillicons.dev/icons?i=railway)](https://skillicons.dev)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+
+**Frameworks & Tools**
+
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![npm](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+
+---
+
+## `> github.stats`
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/zeeshanali90233" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" />
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HuzaifTarazi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c8fcd8&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifTarazi&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c8fcd8&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HuzaifTarazi&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `> pinned.projects`
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**In Progress**](https://github.com/Machaudhary2024/Wombly) | Maternal health & toddler care mobile app | `JavaScript` `React Native` |
+| [**⬡ DCGAN-WGANgp**](https://github.com/Machaudhary2024/DCGAN-WGANgp) | GAN comparison on anime/Pokémon · BCE vs Wasserstein loss | `Python` `PyTorch` |
+| [**⬡ sketch-to-photo-pix2pix**](https://github.com/Machaudhary2024/sketch-to-photo-pix2pix) | Conditional GAN · U-Net + PatchGAN for sketch→photo | `Python` `PyTorch` |
+| [**⬡ NSMNIA-wardrobe**](https://github.com/Machaudhary2024/NSMNIA-wardrobe) | E-commerce front-end for a Pakistani fashion brand | `HTML` `CSS` |
+| [**⬡ NoiseLab**](https://github.com/Machaudhary2024/NoiseLab) | Interactive Streamlit app for image noise exploration | `Python` `Streamlit` |
+
+---
+
+## `> currently.working_on`
+
+```python
+current = {
+    "learning"  : ["Next.Js", "TypeScript", "Gen-Ai", "Ai Automation"],
+    "building"  : "Next cool project — stay tuned 👀",
+    "reading"   : "",
+    "goal_2025" : "",
+}
+```
+
+---
+
+## `> activity.graph`
+
+<div align="center">
+
+[![Mehar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HuzaifTarazi&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `> contact.init()`
+
+```python
+contact = {
+    "github"  : "github.com/Machaudhary2024",
+    "uni"     : "FAST-NUCES Faisalabad",
+    "status"  : "Open to collabs & opportunities 🟢",
+}
+
+print("Let's build something cool together!")
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-HuzaifTarazi-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/HuzaifTarazi)
+![Visitors](https://komarev.com/ghpvc/?username=HuzaifTarazi&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS&labelColor=161b22)
+
+</div>
+
+---
+
+<div align="center">
+  <sub><code>// turning ideas into clean, functional software · one commit at a time</code></sub>
 </div>
