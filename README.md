@@ -110,8 +110,8 @@ current = {
 
 ```python
 contact = {
-    "github"  : "github.com/Machaudhary2024",
-    "uni"     : "FAST-NUCES Faisalabad",
+    "github"  : "github.com/",
+    "uni"     : "",
     "status"  : "Open to collabs & opportunities 🟢",
 }
 
