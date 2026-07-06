@@ -75,11 +75,11 @@ visitor@github:~$ cat ./about_me.txt
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**In Progress**](https://github.com/Machaudhary2024/Wombly) | Maternal health & toddler care mobile app | `JavaScript` `React Native` |
-| [**⬡ DCGAN-WGANgp**](https://github.com/Machaudhary2024/DCGAN-WGANgp) | GAN comparison on anime/Pokémon · BCE vs Wasserstein loss | `Python` `PyTorch` |
-| [**⬡ sketch-to-photo-pix2pix**](https://github.com/Machaudhary2024/sketch-to-photo-pix2pix) | Conditional GAN · U-Net + PatchGAN for sketch→photo | `Python` `PyTorch` |
-| [**⬡ NSMNIA-wardrobe**](https://github.com/Machaudhary2024/NSMNIA-wardrobe) | E-commerce front-end for a Pakistani fashion brand | `HTML` `CSS` |
-| [**⬡ NoiseLab**](https://github.com/Machaudhary2024/NoiseLab) | Interactive Streamlit app for image noise exploration | `Python` `Streamlit` |
+| [**In Progress**](https://github.com/) | Maternal health & toddler care mobile app | `JavaScript` `React Native` |
+| [**In Progress**](https://github.com/) | GAN comparison on anime/Pokémon · BCE vs Wasserstein loss | `Python` `PyTorch` |
+| [**In Progress**](https://github.com/) | Conditional GAN · U-Net + PatchGAN for sketch→photo | `Python` `PyTorch` |
+| [**In Progresse**](https://github.com/) | E-commerce front-end for a Pakistani fashion brand | `HTML` `CSS` |
+| [**In Progress**](https://github.com/) | Interactive Streamlit app for image noise exploration | `Python` `Streamlit` |
 
 ---
 
