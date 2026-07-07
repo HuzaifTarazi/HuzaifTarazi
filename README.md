@@ -128,5 +128,5 @@ print("Let's build something cool together!")
 ---
 
 <div align="center">
-  <sub><code>// turning ideas into clean, functional software · one commit at a time</code></sub>
+  <sub><code>// constantly learning, building, and improving</code></sub>
 </div>
