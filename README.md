@@ -90,7 +90,6 @@ current = {
     "learning"  : ["Next.Js", "TypeScript", "Gen-Ai", "Ai Automation"],
     "building"  : "Next cool project — stay tuned 👀",
     "reading"   : "",
-    "goal_2025" : "",
 }
 ```
 
@@ -108,14 +107,14 @@ current = {
 
 ## `> contact.init()`
 
-```python
-contact = {
-    "github"  : "github.com/",
-    "uni"     : "",
-    "status"  : "Open to collabs & opportunities 🟢",
+```pythoncontact = {
+    "github"   : "github.com/huzaiftarazi",
+    "linkedin" : "linkedin.com/in/huzaiftarazi",
+    "email"    : "huzaiftarazi14@email.com",
+    "status"   : "Open to collaborations 🟢",
 }
 
-print("Let's build something cool together!")
+print("Let's connect!")
 ```
 
 <div align="center">
